@@ -1,3 +1,5 @@
+alert("TURN ON YOUR DESKTOP MODE (FOR BETTER EXPERIENCE!!)")
+
 let userScore = 0;
 let computerScore = 0;
 
